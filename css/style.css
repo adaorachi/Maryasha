@@ -41,3 +41,10 @@ font-size: 1.8rem;
   margin-left: 100px;
   margin-bottom: 30px;
 }
+#contact{
+  text-align: center;
+}
+#contact a{
+  padding-left: 50px;
+}
+
