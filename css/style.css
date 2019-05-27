@@ -8,13 +8,17 @@ body{
   justify-content: flex-end;
 
 }
-#navbar{
+nav{
   position: fixed;
+  top: 0px;
 }
 .nav-link li{
   text-decoration: none;
   list-style: none;
   padding-left: 50px;
+}
+#welcome-section{
+  height: 100vh;
 }
 
 .nav-link li:last-child{
@@ -43,8 +47,8 @@ font-size: 1.8rem;
 }
 #contact{
   text-align: center;
+
 }
 #contact a{
   padding-left: 50px;
 }
-
