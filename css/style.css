@@ -1,0 +1,43 @@
+body{
+  margin:30px auto;
+  background-color: #AFEEEE;
+}
+.nav-link{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+}
+#navbar{
+  position: fixed;
+}
+.nav-link li{
+  text-decoration: none;
+  list-style: none;
+  padding-left: 50px;
+}
+
+.nav-link li:last-child{
+  padding-right: 30px;
+}
+.head h1{
+font-size: 1.8rem;
+}
+.head p{
+  font-size: 1.3rem;
+}
+.head{
+  padding-top: 60px;
+}
+#projects p{
+  font-size: 25px;
+  padding-top: 60px;
+}
+#projects{
+  background-color: #ff99ff;
+
+}
+.project-tile{
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
